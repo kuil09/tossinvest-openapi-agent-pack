@@ -34,7 +34,7 @@ It includes a Hermes `SKILL.md`, but the core guidance is plain Markdown so it c
 Install directly from the raw `SKILL.md` URL:
 
 ```bash
-hermes skills install https://raw.githubusercontent.com/kuil09/hermes-skill-tossinvest-openapi/main/SKILL.md
+hermes skills install https://raw.githubusercontent.com/kuil09/tossinvest-openapi-agent-pack/main/SKILL.md
 ```
 
 ## Use with non-Hermes agents
